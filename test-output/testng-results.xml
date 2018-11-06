@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="13107" started-at="2018-10-30T02:57:03Z" finished-at="2018-10-30T02:57:16Z">
+    <groups>
+    </groups>
+    <test name="EdgeTest" duration-ms="42" started-at="2018-10-30T02:57:03Z" finished-at="2018-10-30T02:57:03Z">
+      <class name="seleniumGridTest.GridTest">
+        <test-method status="PASS" signature="seleniumGridTest(java.lang.String)[pri:0, instance:seleniumGridTest.GridTest@47c62251]" name="seleniumGridTest" duration-ms="14" started-at="2018-10-29T22:57:03Z" finished-at="2018-10-29T22:57:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumGridTest -->
+      </class> <!-- seleniumGridTest.GridTest -->
+    </test> <!-- EdgeTest -->
+    <test name="FirefoxTest" duration-ms="9629" started-at="2018-10-30T02:57:03Z" finished-at="2018-10-30T02:57:13Z">
+      <class name="seleniumGridTest.GridTest">
+        <test-method status="PASS" signature="seleniumGridTest(java.lang.String)[pri:0, instance:seleniumGridTest.GridTest@26653222]" name="seleniumGridTest" duration-ms="9604" started-at="2018-10-29T22:57:03Z" finished-at="2018-10-29T22:57:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumGridTest -->
+      </class> <!-- seleniumGridTest.GridTest -->
+    </test> <!-- FirefoxTest -->
+    <test name="ChromeTest" duration-ms="13107" started-at="2018-10-30T02:57:03Z" finished-at="2018-10-30T02:57:16Z">
+      <class name="seleniumGridTest.GridTest">
+        <test-method status="PASS" signature="seleniumGridTest(java.lang.String)[pri:0, instance:seleniumGridTest.GridTest@1593948d]" name="seleniumGridTest" duration-ms="13081" started-at="2018-10-29T22:57:03Z" finished-at="2018-10-29T22:57:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumGridTest -->
+      </class> <!-- seleniumGridTest.GridTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- TestSuite -->
+</testng-results>
